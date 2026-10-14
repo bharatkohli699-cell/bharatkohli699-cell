@@ -1,27 +1,32 @@
-Tushar Mahour
-BCA – Artificial Intelligence Student
-About Me
-I am currently pursuing a Bachelor of Computer Applications (BCA) with a specialization in Artificial Intelligence. I am interested in Python programming and eager to develop my technical skills through practical projects and continuous learning.
-Education
-Degree: Bachelor of Computer Applications (BCA – Artificial Intelligence)
-Status: Currently pursuing
-Technical Interests
-Python Programming
-Artificial Intelligence
-Machine Learning
-Software Development
-Problem Solving
-Strengths
-Eager to learn
-Logical thinking
+👋 Hi, I'm Tushar Mahour
+🎓 BCA – Artificial Intelligence Student
+🐍 Python Enthusiast | 🤖 Exploring AI | 💡 Always Learning
+� �
+
+🙋‍♂️ About Me
+🎓 I am currently pursuing BCA in Artificial Intelligence (BCA-AI).
+🐍 I enjoy Python programming and want to strengthen my coding skills.
+🤖 I am interested in learning more about Artificial Intelligence and Machine Learning.
+🚀 My goal is to build practical projects, learn new technologies, and grow as a developer.
+🛠️ My Interests
+￼ ￼ ￼ ￼ 
+
+🎯 My Goals
+📘 Improve my Python fundamentals.
+🧩 Practice coding and logical problem-solving.
+🧪 Create beginner-friendly programming projects.
+🌱 Keep learning about AI and related technologies.
+💪 Strengths
+Curious and eager to learn
 Self-motivated
-Teamwork
-Career Objective
-To build a career in Python programming and Artificial Intelligence by strengthening my programming fundamentals, working on practical projects, and learning emerging technologies.
-Languages
-Hindi
-English
-Contact
-Email: Add your email address
+Logical thinking
+Open to teamwork and new challenges
+📫 Connect With Me
+Name: Tushar Mahour
+Course: BCA – Artificial Intelligence
+Email: Add your email address here
 Location: Add your city, state
+
+✨ “Learning today, building tomorrow.” ✨
+Thanks for visiting my profile!
 
